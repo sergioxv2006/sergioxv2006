@@ -17,5 +17,3 @@
 
 ---
 
-**"Aprender, criar e compartilhar"** 🚀
-
