@@ -1,4 +1,4 @@
-# Olá, eu sou o Sérgio! 👋
+# Olá, eu sou Paulo! 👋
 
 ## Sobre mim
 - 👨‍💻 Estudante de Ciência da Computação e entusiasta em desenvolvimento de software.
