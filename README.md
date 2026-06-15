@@ -3,13 +3,13 @@
 ## Sobre mim
 - 👨‍💻 Estudante de Ciência da Computação e entusiasta em desenvolvimento de software.
 - 🚀 Apaixonado por programação, design e banco de dados.
-- 🌱 Atualmente aprendendo sobre **Java**, **Android Studio**, **Redes de Computadores** e **Linux**.
+- 🌱 Atualmente aprendendo sobre **Java**, **Frameworks**, **Cibersegurança** e **Linux**.
 - 🎯 Focado em melhorar minhas habilidades e criar projetos legais para a comunidade.
 
 ## Minhas habilidades
-- Linguagens: Java, Python, SQL
-- Ferramentas: Android Studio, Git, Linux
-- Conceitos: Programação orientada a objetos, Redes, Modelagem de Dados, UML
+- Linguagens: Java, Python, SQL, React
+- Ferramentas: VS Code, Git, Linux, Intellij
+- Conceitos: Programação orientada a objetos, Redes, Banco de Dados, UML, Sistemas Operacionais
 
 ## Arsenal Técnico
 
