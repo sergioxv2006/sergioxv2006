@@ -11,6 +11,13 @@
 - Ferramentas: Android Studio, Git, Linux
 - Conceitos: Programação orientada a objetos, Redes, Modelagem de Dados, UML
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergioxv2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Paulo" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioxv2006&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+</div>
+
 ## Arsenal Técnico
 
 <div align="center">
