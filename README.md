@@ -8,7 +8,7 @@
 
 ## Minhas habilidades
 - Linguagens: Java, Python, SQL, React
-- Ferramentas: VS Code, Git, Linux, Intellij
+- Ferramentas: VS Code, Git, Linux, Intellij IDEA
 - Conceitos: Programação orientada a objetos, Redes, Banco de Dados, UML, Sistemas Operacionais
 
 ## Arsenal Técnico
