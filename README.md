@@ -11,6 +11,14 @@
 - Ferramentas: Android Studio, Git, Linux
 - Conceitos: Programação orientada a objetos, Redes, Modelagem de Dados, UML
 
+## Arsenal Técnico
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,linux,androidstudio,git,mysql,sqlite&perline=4" />
+  </a>
+</div>
+
 ## Se conecte comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-sérgio-237a972ba">
