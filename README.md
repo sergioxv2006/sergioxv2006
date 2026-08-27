@@ -1,15 +1,17 @@
-# Olá, eu sou Paulo! 👋
+# Olá! Eu sou Paulo Sérgio👋
 
-## Sobre mim
-- 👨‍💻 Estudante de Ciência da Computação e entusiasta em desenvolvimento de software.
-- 🚀 Apaixonado por programação, design e banco de dados.
-- 🌱 Atualmente aprendendo sobre **Java**, **Frameworks**, **Cibersegurança** e **Linux**.
-- 🎯 Focado em melhorar minhas habilidades e criar projetos legais para a comunidade.
+Estudante de Ciência da Computação | Desenvolvimento Backend
 
-## Minhas habilidades
-- Linguagens: Java, Python, SQL, React
-- Ferramentas: VS Code, Git, Linux, Intellij IDEA
-- Conceitos: Programação orientada a objetos, Redes, Banco de Dados, UML, Sistemas Operacionais
+Atualmente estou no 6º semestre da graduação e tenho como principal foco o desenvolvimento Web, especialmente Backend.
+
+🐍 Python • Django
+🐹 Go
+⚛️ React Native
+🐧 Linux
+🔐 Cibersegurança
+🗄️ Bancos de dados
+
+Atualmente estou buscando uma oportunidade de estágio em desenvolvimento de software.
 
 ## Arsenal Técnico
 
