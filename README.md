@@ -5,10 +5,15 @@ Estudante de Ciência da Computação | Desenvolvimento Backend
 Atualmente estou no 6º semestre da graduação e tenho como principal foco o desenvolvimento Web, especialmente Backend.
 
 🐍 Python • Django
+
 🐹 Go
+
 ⚛️ React Native
+
 🐧 Linux
+
 🔐 Cibersegurança
+
 🗄️ Bancos de dados
 
 Atualmente estou buscando uma oportunidade de estágio em desenvolvimento de software.
