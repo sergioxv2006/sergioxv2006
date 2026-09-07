@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65E9F7&width=435&lines=Hello+World!;I'm+Paulo+Mau%C3%A9s)](https://git.io/typing-svg)
+
 🎓 **Estudante de Ciência da Computação | Foco em Desenvolvimento Backend**
 
 Atualmente estou no **6º semestre de Ciência da Computação na UNAMA** e tenho como principal foco o **desenvolvimento Web, especialmente Backend**.
