@@ -1,23 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65E9F7&width=435&lines=Hello+World!;I'm+Paulo+Mau%C3%A9s)](https://git.io/typing-svg)
 
-🎓 **Estudante de Ciência da Computação | Foco em Desenvolvimento Backend**
+🎓 **Computer Science Student | Focused on Backend Development**
 
-Atualmente estou no **6º semestre de Ciência da Computação na UNAMA** e tenho como principal foco o **desenvolvimento Web, especialmente Backend**.
+I am currently in my **6th semester of Computer Science at UNAMA**, with a primary focus on **Web Development, specifically Backend**.
 
-Gosto de aprender na prática, desenvolvendo projetos e buscando entender como as tecnologias funcionam e como podem ser utilizadas para resolver problemas reais. Estou sempre procurando novas oportunidades para colocar meus conhecimentos em prática e evoluir como desenvolvedor.
+I enjoy hands-on learning-building projects and seeking to understand how technologies work and how they can be applied to solve real-world problems. I am constantly looking for new opportunities to put my knowledge into practice and grow as a developer.
 
-### 🚀 Atualmente estudando
+### 🚀 Currently Studying
 
-* 🐍 **Python e Django** — Desenvolvimento Backend e Web
-* 🐹 **Go (Golang)** — Explorando desenvolvimento de aplicações
-* ⚛️ **React Native** — Desenvolvimento mobile
-* 🐧 **Linux** — Sistemas, terminal e ambiente de desenvolvimento
-* 🔐 **Cibersegurança** — Fundamentos e segurança de sistemas
-* 🗄️ **Bancos de Dados** — SQL e gerenciamento de dados
+* 🐍 **Python e Django** — Backend and Web Development
+* 🐹 **Go (Golang)** — Exploring application development
+* ⚛️ **React Native** — Mobile development
+* 🐧 **Linux** — Systems, terminal, and development environments
+* 🔐 **Cybersecurity** — Fundamentals and system security
+* 🗄️ **Databases** — SQL and data management
 
-Já tive contato com **Dados e Inteligência Artificial**, mas atualmente estou direcionando meus estudos principalmente para **Desenvolvimento de Software e Backend**.
+I have some experience with **Data and Artificial Intelligence**, but I am currently focusing my studies primary on **Software and Backend Development**.
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tecnhnologies and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -25,19 +25,19 @@ Já tive contato com **Dados e Inteligência Artificial**, mas atualmente estou 
   </a>
 </div>
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
 🔹 **ATIVAÍ**
-Aplicação mobile em desenvolvimento com foco em conectar pessoas a espaços públicos, eventos e atividades esportivas por meio de geolocalização.
+A mobile application currently under development, focused on connecting people with public spaces, events, and sports, activities using geolocation.
 
-🔹 **Outros projetos**
-Confira meus repositórios para acompanhar meus estudos, projetos acadêmicos e experimentos com diferentes tecnologias.
+🔹 **Other Projects**
+Check out my repositories to follow my studies, academic projects, and experiments with various technologies.
 
-### 🎯 Objetivo
+### 🎯 Goal
 
-Atualmente estou **em busca de uma oportunidade de estágio em desenvolvimento de software**, principalmente na área de **Backend**, onde possa colocar meus conhecimentos em prática, aprender com profissionais da área e contribuir para projetos reais.
+I am currently **seeking a software development internship**, specifically in **Backend development**, where I can apply my knowledge, learn from industry professionals, and contribute to real-world projects.
 
-### 🤝 Se conecte comigo
+### 🤝 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paulo-sérgio-maués-237a972ba">
