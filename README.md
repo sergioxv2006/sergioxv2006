@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1800&pause=400&color=58A6FF&center=false&vCenter=false&width=435&lines=Hello+World+%F0%9F%91%8B;Hi%2C+I'm+Pauo Maués!;&multiline=false" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=65E9F7&width=435&lines=Hello+World!;I'm+Paulo+Mau%C3%A9s)](https://git.io/typing-svg)
 
 # Olá! Eu sou Paulo Sérgio 👋
 
